@@ -1,5 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: black;
+  color: #fff;
 }
 
 /* Hero Section */
@@ -65,7 +67,7 @@ body {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  border-left: 2px solid rgb(255, 255, 255);
   position: relative;
 }
 
@@ -81,7 +83,7 @@ body {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(248, 243, 243, 0);
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
