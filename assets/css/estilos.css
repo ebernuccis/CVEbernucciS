@@ -55,12 +55,18 @@ body {
 
 #menu1 {
 
-  padding-top: 60px;
+  padding-top: 150px;
+  text-align: center;
 }
 
 #menu2 {
 
   padding-top: 20px;
+}
+
+#port1 {
+
+  padding-bottom: 50px;
 }
 
 
